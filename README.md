@@ -23,8 +23,12 @@ Wine quality-MODEL DEPLOYMENT
 *  clean the data by data preprocessing.
 
 4. Data Visualization:
+* Showing Correlation (heatmap):
 
-By Using seaborn:
+![image](https://user-images.githubusercontent.com/111189874/189470982-26a14e80-2eb3-49fe-b368-02253bf60a57.png)
+
+
+* By Using seaborn:
 
 ![image](https://user-images.githubusercontent.com/111189874/189470724-3e7ea92b-c2d2-444a-912a-0ac1b46c4ff5.png)
 
