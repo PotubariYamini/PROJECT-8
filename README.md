@@ -24,7 +24,7 @@ Wine quality-MODEL DEPLOYMENT
 
 4. Data Visualization:
 
-by using seaborn:
+By Using seaborn:
 
 ![image](https://user-images.githubusercontent.com/111189874/189470724-3e7ea92b-c2d2-444a-912a-0ac1b46c4ff5.png)
 
@@ -35,13 +35,13 @@ by using seaborn:
 * then we test the data.
 
 
-6. saving the  model in the pickle file formate.
+6. Saving the  model in the pickle file formate.
 
-7. after that we write the CSS , Html, JS code in the website.
+7. After that we write the CSS , Html, JS code in the website.
 
-8. connecting the code with the flask.
+8. Connecting the code with the flask.
 
-9. we deploy the  odel in a website and then try to  predict the model .
+9. We deploy the  odel in a website and then try to  predict the model .
 
 
 
